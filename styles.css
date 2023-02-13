@@ -1,0 +1,22 @@
+body{
+    background-color: hsla(0, 22%, 93%, 0.997);
+}
+
+h1{
+    color:#0e938e;
+}
+
+div{
+    color:#10757c;
+    margin: 10px;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    
+    
+}
